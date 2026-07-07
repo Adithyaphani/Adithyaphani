@@ -66,7 +66,8 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 - Compare approaches using measurable baselines and experiments
 - Use clean repository structures, branches, pull requests, and issues
 - Focus on reproducible research and deployable software systems
-## 📊 GitHub Activity & Development Insights
+
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
@@ -77,44 +78,11 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adithyaphani&theme=github"
-  alt="GitHub profile contribution summary"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adithyaphani&theme=github"
-  alt="Most used programming languages by commit"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adithyaphani&theme=github"
-  alt="Top languages by repository"
-  width="48%"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adithyaphani&theme=github&utcOffset=5.5"
-  alt="Most productive development time"
-/>
-
-</div>
+<p align="center">
+  <sub>
+    Activity graph based on public GitHub contributions such as commits, pull requests, issues, and code reviews.
+  </sub>
+</p>
 
 ---
 
