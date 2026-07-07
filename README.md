@@ -67,7 +67,24 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 - Use clean repository structures, branches, pull requests, and issues
 - Focus on reproducible research and deployable software systems
 
+---
+---
+
 ## 📈 GitHub Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Adithyaphani&theme=react-dark&hide_border=true&area=true&radius=8&days=31&custom_title=Adithya%20Phani%27s%20GitHub%20Contribution%20Graph"
+  alt="Adithya Phani's GitHub contribution activity graph"
+/>
+
+</div>
+
+<p align="center">
+  <sub>Recent public GitHub activity across commits, pull requests, reviews, issues, and discussions.</sub>
+</p>
+
 ---
 
 ## 📊 GitHub Development Insights
@@ -75,29 +92,45 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/github/0-profile-details.svg"
-  alt="GitHub profile contribution summary"
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/0-profile-details.svg"
+  alt="GitHub profile details"
+  width="95%"
 />
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/github/3-stats.svg"
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/3-stats.svg"
   alt="GitHub development statistics"
+  width="48%"
 />
 
-<br/><br/>
-
 <img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/github/1-repos-per-language.svg"
-  alt="Top programming languages by repository"
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg"
+  alt="Top languages by repository"
+  width="48%"
 />
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/github/4-productive-time.svg"
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"
+  alt="Most committed programming languages"
+  width="48%"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg"
   alt="Most productive development time"
+  width="48%"
 />
 
 </div>
