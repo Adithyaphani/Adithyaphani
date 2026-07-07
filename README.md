@@ -68,7 +68,6 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 - Focus on reproducible research and deployable software systems
 
 ---
----
 
 ## 📈 GitHub Contribution Activity
 
@@ -84,6 +83,20 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 <p align="center">
   <sub>Recent public GitHub activity across commits, pull requests, reviews, issues, and discussions.</sub>
 </p>
+
+---
+
+## 🧭 GitHub Activity Mix
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/assets/github-activity-radar.svg"
+  alt="GitHub activity breakdown across code reviews, commits, pull requests, and issues"
+  width="92%"
+/>
+
+</div>
 
 ---
 
