@@ -5,24 +5,25 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
+    permissions:
+      contents: write
 
     steps:
-      - name: Generate summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@v0.0.11
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 5.5
-          AUTO_PUSH: true
           EXCLUDE: ""
-          FORKED_REPOS: false
-          GENERATED_COMMITS: true
-          ORG_REPOS: true
-          REPOS: true
-          THEME: github
+          AUTO_PUSH: true
