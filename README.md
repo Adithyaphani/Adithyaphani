@@ -94,46 +94,48 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 <img
   src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/0-profile-details.svg"
   alt="GitHub profile details"
-  width="95%"
+  width="92%"
 />
 
 </div>
 
 <br/>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/3-stats.svg"
+        alt="GitHub statistics"
+        width="100%"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg"
+        alt="Top languages by repository"
+        width="100%"
+      />
+    </td>
+  </tr>
 
-<img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/3-stats.svg"
-  alt="GitHub development statistics"
-  width="48%"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg"
-  alt="Top languages by repository"
-  width="48%"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"
-  alt="Most committed programming languages"
-  width="48%"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg"
-  alt="Most productive development time"
-  width="48%"
-/>
-
-</div>
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"
+        alt="Top languages by commit"
+        width="100%"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg"
+        alt="Most productive development time"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
