@@ -68,21 +68,39 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 - Focus on reproducible research and deployable software systems
 
 ## 📈 GitHub Contribution Activity
+---
+
+## 📊 GitHub Development Insights
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Adithyaphani&theme=github-compact&hide_border=true"
-  alt="Adithya Phani's GitHub contribution activity graph"
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/github/0-profile-details.svg"
+  alt="GitHub profile contribution summary"
+/>
+
+<br/><br/>
+
+<img
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/github/3-stats.svg"
+  alt="GitHub development statistics"
+/>
+
+<br/><br/>
+
+<img
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/github/1-repos-per-language.svg"
+  alt="Top programming languages by repository"
+/>
+
+<br/><br/>
+
+<img
+  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/github/4-productive-time.svg"
+  alt="Most productive development time"
 />
 
 </div>
-
-<p align="center">
-  <sub>
-    Activity graph based on public GitHub contributions such as commits, pull requests, issues, and code reviews.
-  </sub>
-</p>
 
 ---
 
