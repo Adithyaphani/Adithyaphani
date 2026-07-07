@@ -25,7 +25,7 @@ My work combines software engineering, experimentation, simulation, and real-wor
 Python • Scikit-learn • PyTorch • TensorFlow • Reinforcement Learning • Generative AI • RAG • Vector Databases
 
 ### Quantum Computing
-Qiskit • PennyLane • Cirq • Amazon Braket • Quantum Optimization • QAOA • Variational Algorithms • Quantum Machine Learning
+Qiskit • PennyLane • Cirq • Amazon Braket • Quantum Optimization • QAOA • Variational Algorithms • Quantum Machine Learning • Quantum Chemistry • Quantum Drug-Discovery
 
 ### Backend & Cloud Engineering
 FastAPI • Django • REST APIs • PostgreSQL • Amazon Web Servces • Docker • GitHub Actions
