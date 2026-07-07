@@ -67,6 +67,33 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 - Use clean repository structures, branches, pull requests, and issues
 - Focus on reproducible research and deployable software systems
 
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Adithyaphani&show_icons=true&hide_border=true&count_private=true"
+  alt="GitHub statistics"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyaphani&hide_border=true"
+  alt="GitHub streak statistics"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Adithyaphani&theme=github-compact&hide_border=true"
+  alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+
 ---
 
 ## 🤝 Open to Collaborate On
