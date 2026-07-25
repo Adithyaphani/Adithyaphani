@@ -13,7 +13,7 @@ My work combines software engineering, experimentation, simulation, and real-wor
 - Quantum Reinforcement Learning for decision-making applications
 - Quantum optimization and hybrid quantum-classical workflows
 - AI-powered RAG systems and document intelligence pipelines
-- FastAPI, Django, PostgreSQL, Azure, and cloud deployment
+- FastAPI, Django, PostgreSQL, AWS, and cloud deployment
 - Applied machine learning, automation, and intelligent agents
 - Assistive technologies, embedded systems, and human-computer interaction
 
@@ -25,10 +25,10 @@ My work combines software engineering, experimentation, simulation, and real-wor
 Python • Scikit-learn • PyTorch • TensorFlow • Reinforcement Learning • Generative AI • RAG • Vector Databases
 
 ### Quantum Computing
-Qiskit • PennyLane • Cirq • Amazon Braket • Quantum Optimization • QAOA • Variational Algorithms • Quantum Machine Learning • Quantum Chemistry • Quantum Drug-Discovery
+Qiskit • PennyLane • Cirq • Amazon Braket • Quantum Optimization • QAOA • Variational Algorithms • Quantum Machine Learning • Quantum Chemistry • Quantum Drug Discovery
 
 ### Backend & Cloud Engineering
-FastAPI • Django • REST APIs • PostgreSQL • Amazon Web Servces • Docker • GitHub Actions
+FastAPI • Django • REST APIs • PostgreSQL • Amazon Web Services • Docker • GitHub Actions
 
 ### Embedded Systems & Research
 MATLAB • Arduino • Sensor Systems • Data Visualization • Simulation • Technical Documentation
@@ -40,17 +40,17 @@ MATLAB • Arduino • Sensor Systems • Data Visualization • Simulation • 
 ### Quantum Reinforcement Learning for Decision-Making
 Exploring hybrid quantum-classical reinforcement learning methods for structured decision-making, optimization, and comparative benchmarking against classical reinforcement learning baselines.
 
-### Deep-Space Trajectory Quatum Optimization 
-In this We used Adaptive - Quantum Algorihm to optimize few nitty-gritty areas in fields where Classical methods were unable to resolve
+### Deep-Space Trajectory Quantum Optimization
+Developing a quantum-inspired optimization approach for trajectory planning, with a focus on improving selected mission parameters where classical optimization methods may become computationally expensive or limited.
 
-### AI Hackathon - Judge Project 
-This is an AI Hackathon Judge project built to replace mannual jury for getting first three winners in the Hackathon Judge project.
+### AI Hackathon Judge Project
+An AI-powered hackathon judging system designed to assist in evaluating submissions and identifying top-performing projects based on defined scoring criteria.
 
 ### AI-Powered RAG and Backend Systems
-Developing document-driven AI workflows that combine PDF ingestion, embeddings, vector retrieval, APIs, Azure cloud services, and retrieval-augmented generation.
+Developing document-driven AI workflows that combine PDF ingestion, embeddings, vector retrieval, APIs, AWS-oriented cloud services, and retrieval-augmented generation.
 
-### Smart AI INtelligent Ticket Routing System
-It is used for delegating the tickets the IT companies daily receive to required domain systems and AI automate resolving.
+### Smart AI Intelligent Ticket Routing System
+An AI-based ticket routing system designed to classify incoming IT support tickets, assign them to the appropriate domain teams, and support automated resolution workflows.
 
 ### Head Movement Based Cursor Control
 An assistive human-computer interaction system designed to translate head movement into cursor-control input using sensor data, Arduino-based hardware, and calibration logic.
@@ -91,7 +91,7 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/assets/github-activity-radar.svg"
+  src="./assets/github-activity-radar.svg"
   alt="GitHub activity breakdown across code reviews, commits, pull requests, and issues"
   width="92%"
 />
@@ -105,7 +105,7 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/0-profile-details.svg"
+  src="./profile-summary-card-output/codeSTACKr/0-profile-details.svg"
   alt="GitHub profile details"
   width="92%"
 />
@@ -116,33 +116,32 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img
-        src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/3-stats.svg"
+        src="./profile-summary-card-output/codeSTACKr/3-stats.svg"
         alt="GitHub statistics"
         width="100%"
       />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img
-        src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg"
+        src="./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg"
         alt="Top languages by repository"
         width="100%"
       />
     </td>
   </tr>
-
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img
-        src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"
+        src="./profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"
         alt="Top languages by commit"
         width="100%"
       />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img
-        src="https://raw.githubusercontent.com/Adithyaphani/Adithyaphani/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg"
+        src="./profile-summary-card-output/codeSTACKr/4-productive-time.svg"
         alt="Most productive development time"
         width="100%"
       />
@@ -159,7 +158,7 @@ An Arduino and MATLAB-based system for ultrasonic object detection, rotational s
 - Reinforcement learning and decision-making systems
 - RAG, agentic AI, and cloud backend applications
 - Open-source engineering and research-focused projects
-- Freelance on Quantum Computing and AI based projects from clients.
+- Freelance projects involving Quantum Computing, AI, backend systems, and intelligent automation
 
 ---
 
