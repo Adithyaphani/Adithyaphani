@@ -10,12 +10,13 @@ My work combines software engineering, experimentation, simulation, and real-wor
 
 ## 🚀 Current Focus
 
+- Quantum Drug-Discovery & Quantum Chemistry
 - Quantum Reinforcement Learning for decision-making applications
 - Quantum optimization and hybrid quantum-classical workflows
 - AI-powered RAG systems and document intelligence pipelines
 - FastAPI, Django, PostgreSQL, AWS, and cloud deployment
 - Applied machine learning, automation, and intelligent agents
-- Assistive technologies, embedded systems, and human-computer interaction
+- Quantum Semiconductors and Quantum Error Correction Protocol.
 
 ---
 
